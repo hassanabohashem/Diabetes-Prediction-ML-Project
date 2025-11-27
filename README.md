@@ -25,8 +25,8 @@ The classification pipeline follows these key steps:
 
 | Model | Test Accuracy | ROC AUC | Best Feature |
 | :--- | :--- | :--- | :--- |
-| **Decision Tree** | (Enter your final Decision Tree Accuracy here, e.g., 0.756) | (Enter DT AUC here, e.g., 0.81) | Glucose |
-| **KNN (Scaled)** | (Enter your final KNN Scaled Accuracy here, e.g., 0.79) | (Enter KNN AUC here, e.g., 0.83) | N/A |
+| **Decision Tree** | (Enter your final Decision Tree Accuracy here, e.g., 0.76) | (Enter DT AUC here, e.g., 0.72) | Glucose |
+| **KNN (Scaled)** | (Enter your final KNN Scaled Accuracy here, e.g., 0.71) | (Enter KNN AUC here, e.g., 0.67) | N/A |
 
 *Note: The KNN model benefits significantly from feature scaling (StandardScaler).*
 
